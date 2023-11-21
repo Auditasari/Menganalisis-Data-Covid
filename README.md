@@ -6,5 +6,6 @@ September 2022
 >* Data Cleaning
 >* Tranformasi Data ( sum, month, year, unpivot data)
 >* Analisis Data( Harian,Bulanan,Tahunan)
->* Visualisasi data di tablue public 
-*** Ini Heading 3
+>* Visualisasi data di tablue public
+>  *** Ini Heading 3
+
