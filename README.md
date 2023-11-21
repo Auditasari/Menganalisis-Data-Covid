@@ -7,5 +7,3 @@ September 2022
 >* Tranformasi Data ( sum, month, year, unpivot data)
 >* Analisis Data( Harian,Bulanan,Tahunan)
 >* Visualisasi data di tablue public
->$$$ Ini Heading 3
-
